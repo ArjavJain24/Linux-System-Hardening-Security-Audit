@@ -28,17 +28,16 @@ This project performs a **basic Linux security audit** to identify misconfigurat
 ---
 
 ## 📂 Project Structure
-Network-Traffic-Analysis-Wireshark/
+Linux-System-Hardening-and-Security-Audit/
 │
-├── pcaps/
+├── scripts/
+│   └── security_audit.sh
 │
-├── analysis/
-│ └── findings.txt
-│
-├── filters/
-│ └── wireshark_filters.txt
+├── reports/
+│   └── audit_report.txt
 │
 └── README.md
+
 
 ---
 
