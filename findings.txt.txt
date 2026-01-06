@@ -1,3 +1,0 @@
-- Detected multiple DNS requests to unknown domains
-- Observed repeated TCP SYN packets (possible SYN scan)
-- Identified HTTP traffic carrying credentials in plaintext
