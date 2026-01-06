@@ -3,6 +3,10 @@ This project performs a **basic Linux security audit** to identify misconfigurat
 
 ---
 
+<img width="597" height="400" alt="Screenshot 2026-01-06 164405" src="https://github.com/user-attachments/assets/37528391-f3b9-4509-816c-12b74a28bb62" />
+
+---
+
 ## 📌 Overview
 This project performs a **basic Linux security audit** to identify misconfigurations, excessive permissions, and unnecessary services that could increase attack surface.
 
@@ -39,7 +43,6 @@ Linux-System-Hardening-and-Security-Audit/
 ---
 
 ## ▶️ How to Run
-```bash
 chmod +x security_audit.sh
 ./security_audit.sh
 
@@ -52,7 +55,7 @@ chmod +x security_audit.sh
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
 - CIS benchmark automation
 - Firewall configuration checks
 - Cron job auditing
