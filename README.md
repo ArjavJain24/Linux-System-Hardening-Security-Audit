@@ -42,14 +42,6 @@ Network-Traffic-Analysis-Wireshark/
 
 ---
 
-## 📄 `filters/wireshark_filters.txt`
-http
-tcp.port == 443
-ip.addr == 192.168.1.10
-dns
-
----
-
 ## 🔍 Security Checks Included
 - Users with UID 0 (root-level access)
 - World-writable files
